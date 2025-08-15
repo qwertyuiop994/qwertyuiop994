@@ -5,10 +5,10 @@
 
 ## 🧑‍💻 About Me
 
-💻 **Profession:**  I study at Al-Khwarizmi Heirs.<title>
-🎯 **Goal:**   I’m a student at IT Park.<title>
-🎓 **Fields I Teach:** Mathematics, English, History.<title>
-📚 **Experience:** I experienced a lot of difficulties.<title>
+💻 **Profession:**  I study at Al-Khwarizmi Heirs.<br>
+🎯 **Goal:**   I’m a student at IT Park.<br>
+🎓 **Fields I Teach:** Mathematics, English, History.<br>
+📚 **Experience:** I experienced a lot of difficulties.<br>
 
 ---
 

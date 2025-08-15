@@ -101,7 +101,3 @@ Github start
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rayxona010&color=blue)  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rayxona010&show_icons=true&theme=radical)
-
-Suni intelek
-https://chatgpt.com/?utm_source=google&utm_medium=paidsearch_brand&utm_campaign=GOOG_C_SEM_GBR_Core_CHT_BAU_ACQ_PER_MIX_ALL_EMEA_UZ_EN_032425&utm_term=chatgpt%205&utm_content=183012671425&utm_ad=768593387962&utm_match=e&gad_source=1&gad_campaignid=22373161439&gbraid=0AAAAA-IW-UUzCN2DEToX44rc01JSmWuGP&gclid=CjwKCAjwtfvEBhAmEiwA-DsKjiiXbHeHnskTchWDbH45AsMNA3FHZua7ZuylZDGWuih2p4IZdH_FMRoCLrYQAvD_BwE
-https://grok.com/

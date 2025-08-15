@@ -1,14 +1,14 @@
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Nodir+Ustoz!;IT+Mentor+%26+Teacher;Mentor+in+Programming+and+IT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Masharipov+Mashribjon! />
 </div>
 
 ## 🧑‍💻 About Me
 
-💻 **Profession:** Hello I'm Masharipov Mashribjon Karimovich  
+💻 **Profession:**  I study at Al-Khwarizmi Heirs.
 🎯 **Goal:**  I’m a student at IT Park.
-🎓 **Fields I Teach:**  
-📚 **Experience:** 
+🎓 **Fields I Teach:**  Mathematics, English, History
+📚 **Experience:** I experienced a lot of difficulties.
 
 ---
 

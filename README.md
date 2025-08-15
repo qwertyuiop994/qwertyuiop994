@@ -5,10 +5,10 @@
 
 ## 🧑‍💻 About Me
 
-💻 **Profession:**  I study at Al-Khwarizmi Heirs.
-🎯 **Goal:**   I’m a student at IT Park.
-🎓 **Fields I Teach:** Mathematics, English, History.
-📚 **Experience:** I experienced a lot of difficulties.
+💻 **Profession:** IT Park Mentor & Programming Teacher  
+🎯 **Goal:** Teaching youth, sharing knowledge, and contributing to their future  
+🎓 **Fields I Teach:** Python, Web Development, Cybersecurity  
+📚 **Experience:** Many years in IT with thousands of students trained  
 
 ---
 

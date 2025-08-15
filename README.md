@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <div align="center">
-  <img src= "https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Masharipov+Mashribjon!;IT+student+%26+student;student+in+Programming+and+IT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Nodir+Ustoz!;IT+Mentor+%26+Teacher;Mentor+in+Programming+and+IT" alt="Typing SVG" />
 </div>
 
 ## 🧑‍💻 About Me
@@ -95,4 +95,4 @@
 
 <div align="center">
   <h3>⭐ If you find this profile useful, don't forget to leave a star!</h3>
-</div>                   nerida xato bor
+</div>

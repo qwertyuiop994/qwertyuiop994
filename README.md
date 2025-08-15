@@ -1,12 +1,13 @@
 <!-- Profile Banner -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=HelloI'm+Masharipov+Mashribjon+Karimovich!;IT+student+%26+s;student+in+Programming+and+IT" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Hello!+I'm+Masharipov+Mashribjon+!;IT+student+%26+student;student+in+Programming+and+IT" alt="Typing SVG" />
 </div>
 
 ## 🧑‍💻 About Me
-💻 **Profession:**  I study at Al-Khwarizmi Heirs.
-🎯 **Goal:**  I’m a student at IT Park.
-🎓 **Fields I Teach:**  Mathematics, English, History.
+
+💻 **Profession:**  I study at Al-Khwarizmi Heirs. 
+🎯 **Goal:**   I’m a student at IT Park.
+🎓 **Fields I Teach:** Mathematics, English, History.
 📚 **Experience:** I experienced a lot of difficulties.
 
 ---

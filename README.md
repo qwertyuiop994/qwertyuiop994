@@ -1,70 +1,59 @@
-<!-- Profile Header -->
-<h1 align="center">Hi 👋, I'm Masharipov Mashribjon</h1>
-<h3 align="center">💻 Passionate IT Student | Frontend & Backend Developer</h3>
+<!-- Header Image -->
+<div align="center">
+  <img src="https://i.imgur.com/lN8dYkJ.png" alt="Masharipov Mashribjon Banner" width="100%" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=600&lines=Learning+Never+Stops...;Welcome+to+My+Profile!" alt="Typing SVG" />
-</p>
+<h1 align="center">Hi there 👋, I'm Masharipov Mashribjon</h1>
+<h3 align="center">💻 IT Student | Full-Stack Developer | Lifelong Learner</h3>
 
 ---
 
-## 👨‍🎓 About Me
+## 🧑‍💼 About Me
+
+<img align="right" src="https://i.imgur.com/WLx0Mml.png" alt="Coding Image" width="300"/>
 
 - 🎓 Studying at **Al-Khwarizmi Heirs**
-- 🌱 Learning at **IT Park**
-- 🧑‍🏫 Teaching **Math**, **English**, and **History**
-- 💡 Always improving through challenges
-- 🚀 Aiming to be a full-stack software developer
+- 🧠 Active learner at **IT Park**
+- 📘 Teaching **Math**, **English**, and **History**
+- 🚀 Passionate about full-stack web development
+- 🎯 Always exploring new tech and challenges
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Tech Stack
 
-### 🔷 Frontend
-`HTML` • `CSS` • `JavaScript` • `React` • `Vue.js` • `Tailwind CSS` • `Bootstrap` • `TypeScript`
+### 💻 Frontend
+<p>
+  <img src="https://img.icons8.com/color/48/html-5.png" title="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" title="CSS3"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" title="JavaScript"/>
+  <img src="https://img.icons8.com/ultraviolet/48/react.png" title="React"/>
+  <img src="https://img.icons8.com/color/48/vue-js.png" title="Vue.js"/>
+  <img src="https://img.icons8.com/color/48/tailwind_css.png" title="Tailwind CSS"/>
+</p>
 
-### 🔷 Backend
-`Python` • `Django` • `Flask` • `FastAPI` • `Node.js` • `Express.js` • `Java` • `Spring Boot` • `PHP`
+### ⚙️ Backend
+<p>
+  <img src="https://img.icons8.com/color/48/python.png" title="Python"/>
+  <img src="https://img.icons8.com/ios-filled/48/django.png" title="Django"/>
+  <img src="https://img.icons8.com/ios-filled/48/flask.png" title="Flask"/>
+  <img src="https://img.icons8.com/fluency/48/node-js.png" title="Node.js"/>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" title="Java"/>
+  <img src="https://img.icons8.com/color/48/php.png" title="PHP"/>
+</p>
 
-### 🔷 Databases
-`MySQL` • `PostgreSQL` • `MongoDB` • `Redis` • `SQLite`
-
-### 🔷 Dev Tools
-`Git` • `GitHub` • `Docker` • `Kubernetes` • `CI/CD`
-
-### 🔷 Cloud Platforms
-`AWS` • `Google Cloud` • `Azure` • `DigitalOcean`
-
----
-
-## 🖥️ Tools & IDEs
-
-`VS Code` • `PyCharm` • `WebStorm` • `Android Studio` • `Vim` • `Sublime Text` • `PhpStorm`
-
----
-
-## 💻 Operating Systems
-
-`Linux` • `Ubuntu` • `Kali Linux` • `Windows` • `macOS`
-
----
-
-## 📫 Contact Me
-
-<p align="center">
-  <a href="https://t.me/NodirOdilov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/odilov-nodir"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:tuproqqalam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+### 🗃️ Databases
+<p>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL"/>
+  <img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/>
+  <img src="https://img.icons8.com/color/48/postgreesql.png" title="PostgreSQL"/>
+  <img src="https://img.icons8.com/color/48/redis.png" title="Redis"/>
 </p>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" />
-</div>
+## 🧰 Tools & Platforms
 
----
-
-<div align="center">
-  <h4>⭐ If you found this profile useful, leave a star and connect!</h4>
-</div>
+### 🛠️ Dev Tools
+<p>
+  <img src="https://img.icons8.com/color/

@@ -100,4 +100,4 @@
 Github start
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Rayxona010&color=blue)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rayxona010&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qwertyuiop994&show_icons=true&theme=radical)

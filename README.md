@@ -17,10 +17,10 @@
 ## 🛠️ Texnik ko'nikmalar
 
 **Dasturlash tillari:**  
-`Python`, `JavaScript`, `Java`, `C++`
+`Python`,  `C++`
 
 **Frontend:**  
-`HTML`, `CSS`, `React`, `Vue.js`
+`HTML`, `CSS`, 
 
 **Backend:**  
 `Node.js`, `Django`, `Flask`

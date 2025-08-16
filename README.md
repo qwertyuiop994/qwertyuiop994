@@ -1,105 +1,80 @@
-<!-- Profile Cover -->
-<p align="center">
-  <img src="https://i.imgur.com/7NHCd4f.png" alt="Profile Banner" width="100%" />
-</p>
+<div align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
+  <h1>Salom, Men Full-Stack Dasturchiman!</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Yangi+Texnologiyalar+Muhlisi" alt="Typing SVG" />
+</div>
 
-<h1 align="center">Salom 👋, Men Masharipov Mashribjonman</h1>
-<h3 align="center">💻 Full-Stack Developer | IT Student | Always Evolving</h3>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4AE3F2&center=true&vCenter=true&width=500&lines=Welcome+to+my+world+of+code!;I+build+web+apps+and+learn+every+day!" alt="Typing SVG" />
-</p>
+## 👨‍💻 Men haqimda
 
----
-
-## 🧑‍💻 About Me
-
-<img align="right" src="https://i.imgur.com/NztBfsG.png" alt="Coding" width="300"/>
-
-- 🎓 Student at **Al-Khwarizmi Heirs**
-- 🧠 Currently learning at **IT Park**
-- 📚 I also teach **Math**, **English**, and **History**
-- 🚀 I love building real-world projects and learning by doing
-- 🌱 Passionate about modern web development, backend APIs & deployment
+- Yaxshi strukturalangan kod yozishni va yangi texnologiyalarni o‘rganishni yaxshi ko‘raman
+- Amaliy loyihalarda ishlash orqali tajriba oshirishga intilaman
+- Open source dunyosiga hissa qo‘shish niyatidaman
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Texnik ko'nikmalar
 
-### 🌐 Frontend
-![HTML](https://img.icons8.com/color/40/html-5.png)
-![CSS](https://img.icons8.com/color/40/css3.png)
-![JS](https://img.icons8.com/color/40/javascript.png)
-![React](https://img.icons8.com/officel/40/react.png)
-![Vue.js](https://img.icons8.com/color/40/vue-js.png)
-![Tailwind CSS](https://img.icons8.com/color/40/tailwind_css.png)
-![TypeScript](https://img.icons8.com/color/40/typescript.png)
+**Dasturlash tillari:**  
+`Python`, `JavaScript`, `Java`, `C++`
 
-### 🧪 Backend
-![Python](https://img.icons8.com/color/40/python.png)
-![Django](https://img.icons8.com/material-rounded/40/django.png)
-![Flask](https://img.icons8.com/ios-filled/40/flask.png)
-![FastAPI](https://img.icons8.com/ios-filled/40/api-settings.png)
-![Node.js](https://img.icons8.com/color/40/nodejs.png)
-![Express.js](https://img.icons8.com/ios/40/express-js.png)
-![Java](https://img.icons8.com/color/40/java-coffee-cup-logo.png)
-![PHP](https://img.icons8.com/officel/40/php-logo.png)
+**Frontend:**  
+`HTML`, `CSS`, `React`, `Vue.js`
 
-### 🗄️ Databases
-![MySQL](https://img.icons8.com/ios-filled/40/mysql-logo.png)
-![PostgreSQL](https://img.icons8.com/color/40/postgreesql.png)
-![MongoDB](https://img.icons8.com/color/40/mongodb.png)
-![SQLite](https://img.icons8.com/ios-filled/40/sqlite.png)
+**Backend:**  
+`Node.js`, `Django`, `Flask`
 
-### ⚙️ Tools
-![Git](https://img.icons8.com/color/40/git.png)
-![GitHub](https://img.icons8.com/ios-glyphs/40/github.png)
-![Docker](https://img.icons8.com/color/40/docker.png)
-![Kubernetes](https://img.icons8.com/color/40/kubernetes.png)
-![VS Code](https://img.icons8.com/color/40/visual-studio-code-2019.png)
-![Pycharm](https://img.icons8.com/color/40/pycharm.png)
+**Ma'lumotlar bazasi:**  
+`MySQL`, `PostgreSQL`, `MongoDB`
 
-### ☁️ Cloud
-![AWS](https://img.icons8.com/color/40/amazon-web-services.png)
-![Google Cloud](https://img.icons8.com/color/40/google-cloud.png)
-![Azure](https://img.icons8.com/color/40/microsoft-azure.png)
-![DigitalOcean](https://img.icons8.com/color/40/digitalocean.png)
+**Vositalar:**  
+`Git`, `Docker`, `VS Code`, `Linux`
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="500" />
+</div>
 
 ---
 
-## 🧠 Currently Learning
+## 🎯 2025 yil maqsadlarim
 
-<p>
-  <img src="https://img.icons8.com/color/40/nextjs.png" title="Next.js"/>
-  <img src="https://img.icons8.com/color/40/graphql.png" title="GraphQL"/>
-  <img src="https://img.icons8.com/color/40/linux.png" title="Linux Scripting"/>
-</p>
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%"/>
-</p>
+- [ ] Yangi dasturlash tilini o‘rganish  
+- [ ] Open source loyihalarga hissa qo‘shish  
+- [ ] Shaxsiy portfolioga ega bo‘lish  
+- [ ] Tech blog boshlash  
 
 ---
 
-## 📬 Contact Me
+## 📬 Muloqot uchun
 
-<p align="center">
-  <a href="https://t.me/NodirOdilov">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-  <a href="mailto:tuproqqalam@gmail.com">
+<div align="center">
+  <a href="mailto:itpark310@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/odilov-nodir">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://t.me/Google_activity">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-</p>
+  <a href="https://instagram.com/baydjayev__">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</div>
 
 ---
 
-<div al
+## 💡 Qiziqarli faktlar
+
+- 🎮 Video o‘yinlarni yaxshi ko‘raman  
+- 📚 Texnologik kitoblar o‘qishni xush ko‘raman  
+- ☕ Kuchli qahva — har doim!  
+- 🌍 Sayohat va yangi madaniyatlar — ilhom manbai  
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="100"/>
+  <br/>
+  <b>Profilimga tashrif buyurganingiz uchun tashakkur!</b><br/>
+  <em>⭐️ Agar loyihalarim sizga yoqsa, yulduz bosishni unutmang!</em><br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profil%20ko‘rishlar&color=0e75b6&style=flat" alt="Profile views" />
+</div>

@@ -5,10 +5,10 @@
 
 ## 🧑‍💻 About Me
 
-💻 **Profession:** IT Park Mentor & Programming Teacher  
-🎯 **Goal:** Teaching youth, sharing knowledge, and contributing to their future  
-🎓 **Fields I Teach:** Python, Web Development, Cybersecurity  
-📚 **Experience:** Many years in IT with thousands of students trained  
+💻 **Profession:** 
+🎯 **Goal:** 
+🎓 **Fields I Teach:**
+📚 **Experience:** 
 
 ---
 

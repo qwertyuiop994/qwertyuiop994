@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
   <h1>Salom, Men Full-Stack Dasturchiman!</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Yangi+Texnologiyalar+Muhlisi" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&width=435&lines=Masharipov+Mashribjon+Developer;Open+Source+Enthusiast;Yangi+Texnologiyalar+Muhlisi" alt="Typing SVG" />
 </div>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">

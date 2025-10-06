@@ -8,7 +8,7 @@
 💻 **Profession:** I study at the IT Park of the Al-Khwarizmi Heirs program.<br>
 🎯 **Goal:**  My goal is to become a software developer. <br>
 🎓 **Fields I Teach:** Fields I Teach: Programming, Web Development, and AI.<br>
-📚 **Experience:** Experience: 1 years in web development.<br>p
+📚 **Experience:** Experience: 1 years in web development.<br>
 
 ---
 
